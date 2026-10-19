@@ -1,5 +1,10 @@
 # Implementasi Struktur Data Queue Menggunakan Dart — Modul 1 Pemrograman Mobile Bahasa Pemrograman Dart
 
+## Identitas
+**Nama:** Muhammad Yazid Nugraha  
+**NIM:** H1D024040  
+**Shift KRS:** I
+
 ## 1. Deskripsi Praktikum
 Praktikum ini merupakan implementasi struktur data **Queue (antrian)** menggunakan bahasa pemrograman **Dart**. Program ini dirancang untuk mendemonstrasikan cara kerja antrian berdasarkan prinsip **FIFO (*First In, First Out*)**, yaitu elemen yang pertama kali dimasukkan ke dalam antrian akan menjadi elemen pertama yang dikeluarkan.
 
